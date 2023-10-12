@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardo!, Year Up graduate and current Security Officer at Allied Universal, also volunteer Fullstack Engineer at Sunnyside!
+- 👋 Hi, I’m Eduardo!, Year Up graduate and current Security Officer at Allied Universal
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently working on building a portfolio and full-stack projects.
 - 💞️ I'm working towards landing my first Software Engineer role.
