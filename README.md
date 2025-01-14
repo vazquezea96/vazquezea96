@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Scrimba's Frontend Career Path.<br>👯 I’m looking to collaborate on a Full-stack project.<br>🤝 I’m looking for help with technical interviews.<br>🌱 I’m currently learning Next.js, Java, Docker, and AWS.<br>💬 Ask me about Cloud Technologies! <br>⚡ Fun fact: I am a black belt in TaeKwonDo, I did TaeKwonDo for 8 years!
+🔭 I’m currently working on a React Native Mobile for Northwest Overwatch.<br>👯 I’m looking to collaborate on a Full-stack project.<br>🤝 I’m looking for help with technical interviews.<br>🌱 I’m currently learning Next.js, React Native, TypeScript, and AWS.<br>💬 Ask me about Cloud Technologies! <br>⚡ Fun fact: I am a black belt in TaeKwonDo, I did TaeKwonDo for 8 years!
 
 
 ## 🌐 Socials:
